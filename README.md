@@ -25,7 +25,7 @@ I have a LinkedIn profile where I am active every day. Connect with me and send 
 
 You can also send me an email here: <michaelpeterhartmann94@gmail.com>
 
-### Languages Frameworks, and Tools I'm Familiar With
+### Languages and Frameworks I'm Familiar With
 
 <p>
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -34,11 +34,16 @@ You can also send me an email here: <michaelpeterhartmann94@gmail.com>
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node-dot-js&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="Django" src="https://img.shields.io/badge/-Django-3776AB?style=flat-square&logo=django&logoColor=white" />
+<img alt="Flask" src="https://img.shields.io/badge/-Flask-3776AB?style=flat-square&logo=flask&logoColor=white" />
 <p>
+
+### Tools I'm Familiar With
 
 <p>
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="vim" src="https://img.shields.io/badge/-Vim-F05032?style=flat-square&logo=vim&logoColor=white" />
+<img alt="Atom" src="https://img.shields.io/badge/-Atom-F05032?style=flat-square&logo=atom&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" />
 <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
