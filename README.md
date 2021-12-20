@@ -24,5 +24,3 @@ Most of my repositories here will have a README that explains the idea behind th
 I have a LinkedIn profile where I am active every day. Connect with me and send me a message, even if it's just to say hi! You can find that **[HERE](https://www.linkedin.com/in/michael-hartmann/)**.
 
 You can also send me an email here: <michaelpeterhartmann94@gmail.com>
-
-
