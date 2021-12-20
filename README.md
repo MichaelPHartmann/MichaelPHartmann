@@ -1,10 +1,9 @@
 
 
-<p align="center">## Michael Hartmann<p>
+## <p align="center">Michael Hartmann<p>
+---
 
-<img src="https://loading.io/asset/536617" width="100%" height="200">
-
-My name is Mike. My pronouns are He/Him. I am a finance grad, programmer, and coffee enthusiast.
+Hey there! My pronouns are He/Him. I am a finance grad, programmer, and coffee enthusiast.
 
 My main language is Python, but I've also done some work in Node.js, JavaScript and SQL. I'm always learning something new in the coding world, whether it be an entire language or an algorithm.
 
@@ -24,4 +23,6 @@ Most of my repositories here will have a README that explains the idea behind th
 
 I have a LinkedIn profile where I am active every day. Connect with me and send me a message, even if it's just to say hi! You can find that **[HERE](https://www.linkedin.com/in/michael-hartmann/)**.
 
-You can also send me an email here: <michaelpeterhartmann94@gmail.com> 
+You can also send me an email here: <michaelpeterhartmann94@gmail.com>
+
+
