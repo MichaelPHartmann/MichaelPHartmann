@@ -13,9 +13,9 @@ Most of my repositories here will have a README that explains the idea behind th
 ### What am I currently working on?
 ---
 
-I am currently working on expanding and extending my machine learning theory and knowledge by implementing various algorithms from scratch in Python.
- 
-I'm also currently looking for career opportunities in the areas of finance, business analysis, data analysis, and backend programming.
+I'm currently working as a Solutions Engineer in the Ad Optimization space.
+
+I usually have a couple personal projects that I come back to once in a while. These include FinMesh, my Python library that acts as an abstration layer for various financial data APIs, and challenges like implementing machine learning algorithms in plain Python. 
 
 
 ### How can you contact me?
