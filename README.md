@@ -31,7 +31,7 @@ You can also send me an email here: <michaelpeterhartmann94@gmail.com>
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-<img alt="c" src="https://img.shields.io/badge/-C-F7DF1E?style=flat-square&logo=c&logoColor=red" />
+<img alt="c" src="https://img.shields.io/badge/-C-F7DF1E?style=flat-square&logo=c&logoColor=white" />
 <img alt="php" src="https://img.shields.io/badge/-PHP-F7DF1E?style=flat-square&logo=php&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node-dot-js&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-43853d?style=flat-square&logo=react&logoColor=white" />
