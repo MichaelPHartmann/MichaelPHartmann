@@ -3,7 +3,7 @@
 
 Hey there! I am a finance grad, programmer, coffee enthusiast and former framer. My pronouns are He/Him.
 
-My main languages are Python and JavaScript. In general I use Python for my personal projects and JavaScript at work. I'm always learning something new in the coding world, whether it be an entire language or an algorithm.
+My main languages are Python and TypeScript. In general I use Python for my personal projects and TypeScript at work. I'm always learning something new in the coding world, whether it be an entire language or an algorithm.
 
 My largest project is FinMesh, a Python wrapper for IEX Cloud and a couple other financial data APIs. The rest of my projects are a mix of personal project, task automation, and backend stuff.
 
@@ -21,7 +21,7 @@ I usually have a couple personal projects that I come back to once in a while. T
 ### How can you contact me?
 ---
 
-I have a LinkedIn profile where I am active every day. Connect with me and send me a message, even if it's just to say hi! You can find that **[HERE](https://www.linkedin.com/in/michael-hartmann/)**.
+I have a LinkedIn profile where I am active often. Connect with me and send me a message, even if it's just to say hi! You can find that **[HERE](https://www.linkedin.com/in/michael-hartmann/)**.
 
 You can also send me an email here: <michaelpeterhartmann94@gmail.com>
 
@@ -31,6 +31,7 @@ You can also send me an email here: <michaelpeterhartmann94@gmail.com>
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="typescript" src="https://img.shields.io/badge/-TypeScript-F7DF1E?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="c" src="https://img.shields.io/badge/-C-F7DF1E?style=flat-square&logo=c&logoColor=white" />
 <img alt="php" src="https://img.shields.io/badge/-PHP-F7DF1E?style=flat-square&logo=php&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node-dot-js&logoColor=white" />
